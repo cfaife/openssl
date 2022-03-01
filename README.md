@@ -1,8 +1,8 @@
-# openssl
+# OpenSSL
 
 OpenSSL -> stand for security socket layer
  
-RSA -> is  the algorithm Exused in this tutorial
+RSA -> is  the algorithm used in this tutorial
 
 
 # Get OpenSSL version
